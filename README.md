@@ -19,7 +19,7 @@
 ---
 ## 🧠 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/> 
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20Initiative-000000?style=flat&logo=openai&logoColor=white"/>
-</p>
+</div>
 
 
 ---
@@ -114,8 +114,8 @@
 ## 💬 Motto
 > *"Code is poetry in motion, and I’m just out here writing verses for the future."*
 
-##💬 Thouhts
-> "Just because someone gives you orders to do something, doesn't always mean it's right."
+##💬 Thoughts
+> *"Just because someone gives you orders to do something, doesn't always mean it's right."*
 
 
 ---
