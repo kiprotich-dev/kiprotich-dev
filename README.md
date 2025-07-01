@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0F0F0F&height=200&section=header&text=VIN%20THE%20VISIONARY&fontAlign=50&fontSize=40&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0F0F0F&height=200&section=header&text=VINCENT%20THE%20VISIONARY&fontAlign=50&fontSize=40&fontColor=FFFFFF" />
 </p>
 
 ---
