@@ -79,7 +79,7 @@
 ---
 
 ## 🧩 Currently Brewing:
-🔐 **Secure Chat** – End-to-end encrypted messenger tailored for 🇰🇪  
+🔐 **Secure Chat** – End-to-end encrypted messenger.
 🛠️ **BYOI** – EVs that are customizable, modular, and *built for the bold*.  
 ⌨️ **TypeKe** – Typing speed test with African flair.
 
