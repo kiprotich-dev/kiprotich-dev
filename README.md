@@ -97,7 +97,7 @@
 ---
 
 ## 📫 Reach Out & Connect
-🌐 [Website](https://portfolio-website-p412.onrender.com/) |
+🌐 [Website](https://portfolio-website-p412.onrender.com/)
 🌐 [StartUp](https://kiprotich-dev.github.io/fikrocity/fikrocity-website/)
 📮 Email: vinsntkiprotich@gmail.com  
 🧠 LinkedIn: [Kiprotich](www.linkedin.com/in/vincent-kiprotich-84257b221)  
