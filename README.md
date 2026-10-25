@@ -14,7 +14,7 @@
 🧠 Software engineer by day, dream engineer by night.  
 🛞 Car enthusiast shifting gears into electric innovation.  
 💡 I believe the best code *feels like art* and *works like science*.  
-🇰🇪 Proudly repping Kenya’s tech wave.
+✅ Proudly repping Kenya’s tech wave.
 
 ---
 ## 🧠 Tech Stack
@@ -97,7 +97,8 @@
 ---
 
 ## 📫 Reach Out & Connect
-🌐 [Website](https://portfolio-website-p412.onrender.com/) |  
+🌐 [Website](https://portfolio-website-p412.onrender.com/) |
+🌐 [StartUp](https://kiprotich-dev.github.io/fikrocity/fikrocity-website/)
 📮 Email: vinsntkiprotich@gmail.com  
 🧠 LinkedIn: [Kiprotich](www.linkedin.com/in/vincent-kiprotich-84257b221)  
 🐦 X/Twitter: [@vintech254](https://twitter.com/KiprotichVinsnt) 
